@@ -39,5 +39,6 @@ while True:
 
     if keyboard.is_pressed('r'):
         reset_count()
+        print("Count reset!")
     
     
